@@ -1,0 +1,6 @@
+.idea/
+venv/
+venvPy2/
+build/
+dist/
+*.pyc
